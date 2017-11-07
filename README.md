@@ -1,2 +1,2 @@
 # text_classification
-fasttext,cnn,rnn,etc
+fasttext,cnn,rnn/lstm/gru,etc
